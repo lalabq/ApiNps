@@ -1,7 +1,7 @@
 # Introdução
 
 Este projeto foi desenvolvido durante a trilha de NodeJS da imersão Next Level Week #04 da Rocketseat, realizado nos dias 22 à 28 de fevereiro de 2021, ministrado pela instrutora Daniele Evangelista.
-O foco principal dessa trilha é NodeJS, mas também traz API rest, TypeScript e Express.
+O foco principal dessa trilha é NodeJS, mas também traz API rest, TypeScript, TypeORM Express.
 
 # Sobre a API
 
